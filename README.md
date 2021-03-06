@@ -1,2 +1,2 @@
 # mock-rcopy
-function that mocks linux rcopy command
+A C function that mocks linux rcopy command.
